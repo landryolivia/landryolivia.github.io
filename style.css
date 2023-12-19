@@ -1,0 +1,71 @@
+
+#wrap{
+    float: left;
+}
+
+#myname{
+    float: left;
+    width: 462px;
+}
+
+
+
+#mypic {
+    float: left;
+    margin-bottom: 10px;
+    margin-right: 20px;
+}
+
+#main{
+    float: left;
+    width: 700px;
+    -ms-hyphens: auto;
+-webkit-hyphens: auto;
+hyphens: auto;
+}
+
+
+a {
+    color: orange;
+    text-decoration: none;
+}
+
+p {
+    line-height: 20px;
+       font-size: 17px;
+}
+
+body {
+    line-height: 1.4;
+    font-size: 14px;
+    color: DimGray;
+    background-color: #e0ddd6;
+    margin: 40px;
+    padding: 0px;
+}
+
+
+
+
+h1 {
+    color: DarkSlateGray;
+    background-color: #e0ddd6;
+    margin: 0px;
+    padding: 0px;
+}
+
+h2 {
+	  /* text-align: center;*/
+	  color: DarkSlateGray;
+    font-size: 1.5em;
+    background-color: orange;
+    margin: 0px;
+    padding: 20px;
+}
+
+
+
+strong {
+	font-size: 1.2em;
+    font-style: bold;
+}
