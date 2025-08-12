@@ -1,3 +1,11 @@
+#centerr{
+        margin: 0 auto !important;
+        float: none !important;
+        max-width: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+}
 
 #wrap{
     float: left;
@@ -13,7 +21,7 @@
 #mypic {
     float: left;
     margin-bottom: 10px;
-    margin-right: 20px;
+    margin-right: 0 auto !important;
 }
 
 #main{
@@ -40,7 +48,7 @@ body {
     font-size: 14px;
     color: DimGray;
     background-color: #e0ddd6;
-    margin: 40px;
+    
     padding: 0px;
 }
 
